@@ -1,0 +1,3 @@
+****,NIS,nis_ne_id
+****,NIS,men_ne_all
+****,NIS,all_device_card
